@@ -1,6 +1,6 @@
 # dependency-check-530-update
 
-This is a minimal project to reporduce an issue when updating to owasp dependency check 5.3.0 when
+This is a minimal project to reproduce an issue when updating to owasp dependency check 5.3.0 when
 using a very, very old tag lib. Specifically jakarta unstandard taglib.
 
 ## Maven command
