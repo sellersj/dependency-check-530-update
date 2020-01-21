@@ -19,3 +19,5 @@ mvn org.owasp:dependency-check-maven:5.3.0:check org.owasp:dependency-check-mave
 ```
 
 I have been able to reproduce this with maven 3.6.2 / 3.6.3, using java 8 on linux / mac.
+
+This has been reported in issue [2440](https://github.com/jeremylong/DependencyCheck/issues/2440)
